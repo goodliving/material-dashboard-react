@@ -28,7 +28,7 @@ export default function Icons() {
                 href="https://design.google.com/icons/?ref=creativetime"
                 target="_blank"
               >
-                Google
+                Google0
               </a>
             </p>
           </CardHeader>
